@@ -1,4 +1,4 @@
-# 中南财经政法大学信息系统管理入口 
+# 中南财经政法大学信息系统管理调试入口 
  邮箱地址：https://mail.zuel.edu.cn   
  zabbix5.0         http://222.20.142.81   账号：admin  密码：admin123 
  vpn   https://222.20.142.35          
